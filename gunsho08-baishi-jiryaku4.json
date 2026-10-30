@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/baishi-jiryaku4-utaawase",
  "yomi": "ばいしないしんのうけうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（十二題）",
+  "era": "治暦4年（1068）5月5日",
+  "author": "主催 禖子内親王",
+  "desc": "六条斎院禖子内親王の家で、五月五日に催された歌合。菖蒲・時鳥・五月雨・橘・卯花・樗・早苗・照射・螢・水鶏・夏草・蚊遣火の夏の題で女房たちが詠み合う。"
+ },
  "editions": [
   {
    "pid": "1879502",
